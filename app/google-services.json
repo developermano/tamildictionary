@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895585169575",
+    "project_id": "tamildictionary-1",
+    "storage_bucket": "tamildictionary-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895585169575:android:4eed148536041da95c6b82",
+        "android_client_info": {
+          "package_name": "com.developermano.tamildictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895585169575-n6o54s4efc8iduscchnuddig99mldqu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SPtzhCH6tAClqIEMJkAqN1T5GvKynIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895585169575-n6o54s4efc8iduscchnuddig99mldqu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
